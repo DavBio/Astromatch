@@ -20,7 +20,7 @@
 
 Acesse o site:
 
-> https://davbio.github.io/Pokedex/
+> http://tidy-mailbox.surge.sh/  
 
 ... 
 
